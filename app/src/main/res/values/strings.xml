@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSC</string>
+    <string name="Button">Button</string>
+    <string name="GravitionalForce">Gravitional Force</string>
+    <string name="Science1">Science1</string>
+    <string name="Science2">Science2</string>
+</resources>
